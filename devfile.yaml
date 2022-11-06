@@ -1,6 +1,6 @@
 apiVersion: 1.0.0
 metadata:
-  schemaVersion: 2.2.1
+  schemaVersion: 2.2.0
   name: spring-to-quarkus-todo
 projects:
   - name: spring-to-quarkus-todo
